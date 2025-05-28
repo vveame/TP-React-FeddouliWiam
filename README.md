@@ -1,12 +1,12 @@
 # TP-React-FeddouliWiam
 
-##Informations personnelles
+## Informations personnelles
 
 - Nom et Prenom: Feddouli Wiam
 
 - Num Inscription: DCC0001/24
 
-##Captures d'ecran
+## Captures d'ecran
 
 - Page de liste des produits
 
