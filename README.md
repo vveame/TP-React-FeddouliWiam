@@ -1,4 +1,19 @@
-<<<<<<< HEAD
+# TP-React-FeddouliWiam
+
+##Informations personnelles
+
+- Nom et Prenom: Feddouli Wiam
+
+- Num Inscription: DCC0001/24
+
+##Captures d'ecran
+
+- Page de liste des produits
+
+![image](https://github.com/user-attachments/assets/e4cf9318-d25d-4e72-bf95-fb827c4ebc56)
+
+=======
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -53,6 +68,3 @@ export default tseslint.config({
   },
 })
 ```
-=======
-# TP-React-FeddouliWiam
->>>>>>> 78417543201c9a9607650e0e2281ed00a4d315c0
